@@ -1,0 +1,22 @@
+{
+  "comments": [
+    {
+      "id": "1",
+      "body": "First comment",
+      "avatar": "https://github.com/araujrafael.png",
+      "username": "Rafael",
+      "userId": "2",
+      "parentId": null,
+      "createdAt": "2022-11-08T23:07:05.096Z"
+    },
+    {
+      "id": "3",
+      "body": "Third comment",
+      "avatar": null,
+      "username": "Jhon",
+      "userId": "1",
+      "parentId": "1",
+      "createdAt": "2022-11-08T23:07:05.096Z"
+    }
+  ]
+}
